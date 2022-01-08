@@ -13,6 +13,8 @@
 		091AAA4F276214840091360A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 091AAA4D276214840091360A /* Main.storyboard */; };
 		091AAA51276214860091360A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 091AAA50276214860091360A /* Assets.xcassets */; };
 		091AAA54276214860091360A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 091AAA52276214860091360A /* LaunchScreen.storyboard */; };
+		09FAE0DB276753FC0035BAFC /* MunchkinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FAE0DA276753FC0035BAFC /* MunchkinViewController.swift */; };
+		09FAE0DD276754500035BAFC /* MunchkinDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FAE0DC276754500035BAFC /* MunchkinDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		091AAA50276214860091360A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		091AAA53276214860091360A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		091AAA55276214860091360A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09FAE0DA276753FC0035BAFC /* MunchkinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MunchkinViewController.swift; sourceTree = "<group>"; };
+		09FAE0DC276754500035BAFC /* MunchkinDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MunchkinDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				091AAA49276214840091360A /* SceneDelegate.swift */,
 				091AAA4B276214840091360A /* ViewController.swift */,
 				091AAA4D276214840091360A /* Main.storyboard */,
+				09FAE0DC276754500035BAFC /* MunchkinDetailViewController.swift */,
+				09FAE0DA276753FC0035BAFC /* MunchkinViewController.swift */,
 				091AAA50276214860091360A /* Assets.xcassets */,
 				091AAA52276214860091360A /* LaunchScreen.storyboard */,
 				091AAA55276214860091360A /* Info.plist */,
@@ -141,6 +147,8 @@
 				091AAA4C276214840091360A /* ViewController.swift in Sources */,
 				091AAA48276214840091360A /* AppDelegate.swift in Sources */,
 				091AAA4A276214840091360A /* SceneDelegate.swift in Sources */,
+				09FAE0DD276754500035BAFC /* MunchkinDetailViewController.swift in Sources */,
+				09FAE0DB276753FC0035BAFC /* MunchkinViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
